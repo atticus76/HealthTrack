@@ -1,7 +1,7 @@
 ## Working Notes
 
 Group Members:
-Atticus Crooks
+Atticus Crook
 Antsey Hans
 Mohamed Dawoud
 Yogi Chopra
